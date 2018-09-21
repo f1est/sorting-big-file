@@ -156,6 +156,7 @@ int main(int argc, char **argv) {
 
     remove(sorted_bin_file.c_str());
     
+    end = myclock::now();
     elapsed_time = std::chrono::duration_cast<std::chrono::seconds>(end - begin);
     std::cout << "\nTotal sorting time of is: " << elapsed_time.count()/60 << " minutes " << elapsed_time.count()%60 << " seconds\n";
 
