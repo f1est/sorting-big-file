@@ -20,4 +20,4 @@ will compile two executable files:
   $ ./1_sorter unsorted_double.txt sorted.txt
 ```
 
-**Works very fast!!!**
+**The sorter works very fast !!!**
