@@ -1,7 +1,11 @@
 /*
-    Cортировка чисел формата double хранящихся в текстовом файле размером 1Гб 
-    (файл генерируется программой 0_generate_double_digits.cpp)
-*/
+ * 	 @author 	 f1est 
+ * 	 telegram: 	 @F1estas (https://t.me/F1estas) 
+ * 	 e-mail: 	 www-b@mail.ru 
+ *  
+ *   Cортировка чисел формата double хранящихся в текстовом файле размером 1Гб 
+ *   (файл генерируется программой 0_generate_double_digits.cpp)
+ */
 
 #include <iostream>    
 #include <fstream>
