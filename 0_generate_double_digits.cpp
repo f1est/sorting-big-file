@@ -1,6 +1,11 @@
 /*
-    генератор не отсортированного 1Гб файла с числами формата double
-*/
+ * 	 @author 	 f1est 
+ * 	 telegram: 	 @F1estas (https://t.me/F1estas) 
+ * 	 e-mail: 	 www-b@mail.ru 
+ *  
+ *
+ *   генератор неотсортированного 1Гб файла с числами формата double
+ */
 
 #include <iostream>     // std::cout
 #include <fstream>
