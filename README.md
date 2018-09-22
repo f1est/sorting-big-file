@@ -1,5 +1,7 @@
 The program sorts the numbers of the double format (type double) stored in a text file 1 GB in size (one number in one line).
 
+**The sorter works very fast and consumes very little RAM !!!**
+
 ## Usage
 
 ```sh
@@ -19,5 +21,3 @@ will compile two executable files:
 ```sh
   $ ./1_sorter unsorted_double.txt sorted.txt
 ```
-
-**The sorter works very fast !!!**
